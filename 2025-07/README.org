@@ -1,0 +1,19 @@
+Group meeting schedule, Summer 2025
+
+Time 11am to noon on Monday mornings in D4-2011.
+
+What to present?
+1. your research.
+2. somebody else's paper.
+3. some useful software.
+
+Suggested schedule below. Feel free to change!
+
+- July 21: Toby
+- July 28: Felix
+- Aug 4: Justine
+- Aug 11: no meeting (Toby absent).
+- Aug 18: Anna
+- Aug 25: Omar
+- Sep 1: Jérémi
+

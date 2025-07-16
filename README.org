@@ -1,0 +1,33 @@
+[[https://lassolab.org][LASSO lab]] group meetings
+
+- [[file:2025-07/README.org][Summer 2025]]
+
+Advice on preparing talks/slides
+
+- https://emilyriederer.netlify.app/post/writing-a-tech-talk/
+
+Ideas for talks
+
+- [[https://www.youtube.com/watch?v=GUovhZYNO-M][Don't use VSCode]]
+- https://github.com/mlabonne/llm-course
+- https://github.com/microsoft/generative-ai-for-beginners
+- https://github.com/microsoft/ML-For-Beginners
+- When there are new people in lab at the beginning of a semester, tutorial about
+  - git
+  - data.table
+  - ggplot2
+- Grad student reading group [[https://class.lambdamd.org/pdsr/][Programming for Data Science in R]]
+- Z. Yang, Q. Xu, S. Bao, X. Cao, and Q. Huang. Learning with multiclass auc: Theory and algorithms. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021.
+- https://developers.google.com/machine-learning/guides/rules-of-ml
+- anything from the Murphy book, https://github.com/probml/pml-book/releases/latest/download/book1.pdf
+- Causality for Machine Learning https://arxiv.org/abs/1911.10500
+- Efficient and Modular Implicit Differentiation, https://arxiv.org/abs/2105.15183
+- Hyperparameter optimization with approximate gradient, https://arxiv.org/pdf/1602.02355.pdf
+- Deep Implicit Layers Tutorial at NeurIPS 2020, http://implicit-layers-tutorial.org/
+- anything from the Sussex PAL reading group, https://wearepal.ai/reading
+- Intro to jax in Python, https://jax.readthedocs.io/en/latest/notebooks/quickstart.html
+- Tutorial how to use Tensor Processing Units (TPUs), https://cloud.google.com/tpu/docs/tpus
+- Jenny Bryan on R debugging and minimal reproducible examples, https://www.youtube.com/watch?v=vgYS-F8opgE
+- https://github.com/ReeceGoding/Frustration-One-Year-With-R
+- Changepoint review paper https://arxiv.org/pdf/2012.12814.pdf
+- https://github.com/matloff/TidyverseSkeptic/blob/master/READMEFull.md
