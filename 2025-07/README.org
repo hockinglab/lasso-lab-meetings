@@ -9,7 +9,7 @@ What to present?
 
 Suggested schedule below. Feel free to change!
 
-- July 21: Toby
+- July 21: Toby: animint2 R package: animated, interactive data visualization. I will give some demos of the animint2 software, and explain some new functionality and documentation that we are working on this summer (French translation, improved tooltips, non-overlapping labels, etc).
 - July 28: Felix
 - Aug 4: Justine
 - Aug 11: no meeting (Toby absent).
