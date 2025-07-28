@@ -11,7 +11,7 @@ Suggested schedule below. Feel free to change!
 
 - July 21: Toby: SOAK: Same/Other/All K-fold cross-validation for estimating similarity of patterns in data subsets. [[https://arxiv.org/abs/2410.08643][arXiv paper]], [[https://github.com/tdhock/two-new-algos-sci-ml?tab=readme-ov-file#title-abstract-slides][slides]]
 - July 28: Felix: Présentation sur le projet [[https://github.com/Chabam/neolvox/tree/standalone][LVox]] (sujet de maîtrise)
-- July 30 @ 13h: Workshop: R package development using GitHub and Pull Requests. Reading: [[https://tdhock.github.io/blog/2025/computational-research-organization/][my guide to organizing computational research projects]], section Writing Pull Requests.
+- July 30 @ 13h: Workshop: R package development using GitHub and Pull Requests. Reading: [[https://tdhock.github.io/blog/2025/computational-research-organization/][my guide to organizing computational research projects]], section Writing Pull Requests. [[https://r-pkgs.org/][R packages]] online book.
 - Aug 4: Justine
 - Aug 11: no meeting (Toby absent).
 - Aug 18: Omar
