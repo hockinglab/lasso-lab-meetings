@@ -11,7 +11,7 @@ Suggested schedule below. Feel free to change!
 
 - July 21: Toby: SOAK: Same/Other/All K-fold cross-validation for estimating similarity of patterns in data subsets. [[https://arxiv.org/abs/2410.08643][arXiv paper]], [[https://github.com/tdhock/two-new-algos-sci-ml?tab=readme-ov-file#title-abstract-slides][slides]]
 - July 28: Felix: Présentation sur le projet [[https://github.com/Chabam/neolvox/tree/standalone][LVox]] (sujet de maîtrise)
-- July 30 @ 13h: Workshop: R package development using GitHub and Pull Requests. Reading: [[https://tdhock.github.io/blog/2025/computational-research-organization/][my guide to organizing computational research projects]], section Writing Pull Requests. [[https://r-pkgs.org/][R packages]] online book.
+- July 30 @ 13h: Workshop: R package development using GitHub and Pull Requests. Reading: [[https://tdhock.github.io/blog/2025/computational-research-organization/][my guide to organizing computational research projects]], section Writing Pull Requests. [[https://r-pkgs.org/][R packages]], and [[https://happygitwithr.com/][Happy Git and GitHub for the useR]] online book. Abstract: Git is a version control system for managing source code, and GitHub is a platform for hosting Git repositories. When you want other people to review your code, it is best to create a Pull Request, which summarizes a set of modifications to review, and allows others to add comments to suggest improvements. In this workshop I will explain how to use Pull Requests on GitHub, using the example of developing an R package, and asking for code review.
 - Aug 4: Justine
 - Aug 11: no meeting (Toby absent).
 - Aug 18: Omar
