@@ -11,10 +11,11 @@ Suggested schedule below. Feel free to change!
 
 - July 21: Toby: SOAK: Same/Other/All K-fold cross-validation for estimating similarity of patterns in data subsets. [[https://arxiv.org/abs/2410.08643][arXiv paper]], [[https://github.com/tdhock/two-new-algos-sci-ml?tab=readme-ov-file#title-abstract-slides][slides]]
 - July 28: Felix: Présentation sur le projet [[https://github.com/Chabam/neolvox/tree/standalone][LVox]] (sujet de maîtrise)
+- July 30 @ 13h: Workshop: R package development using GitHub and Pull Requests.
 - Aug 4: Justine
 - Aug 11: no meeting (Toby absent).
-- Aug 18: Anna
-- Aug 25: Omar
-- Sep 1: Jérémi
+- Aug 18: Omar
+- Aug 25: 
+- Sep 1: 
 
 - TODO animint2 R package: animated, interactive data visualization. I will give some demos of the animint2 software, and explain some new functionality and documentation that we are working on this summer (French translation, improved tooltips, non-overlapping labels, etc).
