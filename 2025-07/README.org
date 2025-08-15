@@ -18,7 +18,10 @@ Suggested schedule below. Feel free to change!
   - Abstract: Git is a version control system for managing source code, and GitHub is a platform for hosting Git repositories. When you want other people to review your code, it is best to create a Pull Request, which summarizes a set of modifications to review, and allows others to add comments to suggest improvements. In this workshop I will explain how to use Pull Requests on GitHub, using the example of developing an R package, and asking for code review.
 - Aug 4: Justine
 - Aug 11: no meeting (Toby absent).
-- Aug 15, 9am: Omar
+- Aug 15, 9am: Omar : Optimisation des courbes ROC multi-classes.
+  Links:[[https://docs.google.com/presentation/d/1p7YqJd1kT_7SlQFpeIiBMLyBl6O99OycyaMwrD9PyoY/edit?slide=id.gc6f9e470d_0_0#slide=id.gc6f9e470d_0_0][slides]],[[https://github.com/OGuenoun/R-AUM_Multiclass][repo for comparison figures(code in R)]],[[https://github.com/OGuenoun/AUMMulticlass][repo for figures that explain macro and micro]], [[https://github.com/OGuenoun/LM-AUM][repo for Language models code]].
+ Abstract: This presentation explores the optimization of ROC curves for multi-class classification tasks, with a focus on imbalanced datasets. Starting from the limitations of traditional ROC–AUC in imbalanced class distributions. The work extends binary Area under the minimum (AUM) concepts to multi-class settings using  one-vs-all strategies, and evaluates both macro and micro averaging approaches. The final section applies these ideas to language models pre-training.
+
 - Aug 25: Toby
 - Sep 1: Felix
 
