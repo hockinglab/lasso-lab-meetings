@@ -17,7 +17,7 @@ Suggested schedule below. Feel free to change!
   - [[https://git-scm.com/book/fr/v2/GitHub-Contribution-%C3%A0-un-projet][git-scm docs en français]], [[https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project][English]].
   - Abstract: Git is a version control system for managing source code, and GitHub is a platform for hosting Git repositories. When you want other people to review your code, it is best to create a Pull Request, which summarizes a set of modifications to review, and allows others to add comments to suggest improvements. In this workshop I will explain how to use Pull Requests on GitHub, using the example of developing an R package, and asking for code review.
 - Aug 4: Justine : Precision-Recall Curves
-  - [[https://www.canva.com/design/DAGuvjWO7dU/sfM6xGgP4fpXiFJ6gxmb9g/viewutm_content=DAGuvjWO7dU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8d76aa5b2f][Slides]] (not updated)
+  - [[https://www.canva.com/design/DAGuvjWO7dU/yNx4M8-ljW44sOal8eHMjQ/edit?utm_content=DAGuvjWO7dU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton][Slides]] (not updated)
   - [[https://github.com/juruch/Internship-Sherbrooke/tree/main/PR-AUM][Repo]] with updated codes and figures (see [[https://github.com/juruch/Internship-Sherbrooke/blob/main/PR-AUM/FirstResults.md][FirstResults.R]])
   - Abstract : This presentation sums up my work up until August 4th. How I went from ROC to Precision-Recall which modifications and computation changes I did. It also features a few (outdated) figures I did using [[https://tdhock.github.io/blog/2025/mlr3torch-conv][this code]] modified to use my own Precision-Recall functions.
 - Aug 11: no meeting (Toby absent).
