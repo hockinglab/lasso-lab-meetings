@@ -25,7 +25,7 @@ Suggested schedule below. Feel free to change!
   Links:[[https://docs.google.com/presentation/d/1p7YqJd1kT_7SlQFpeIiBMLyBl6O99OycyaMwrD9PyoY/edit?slide=id.gc6f9e470d_0_0#slide=id.gc6f9e470d_0_0][slides]],[[https://github.com/OGuenoun/R-AUM_Multiclass][repo for comparison figures(code in R)]],[[https://github.com/OGuenoun/AUMMulticlass][repo for figures that explain macro and micro]], [[https://github.com/OGuenoun/LM-AUM][repo for Language models code]].
  Abstract: This presentation explores the optimization of ROC curves for multi-class classification tasks, with a focus on imbalanced datasets. Starting from the limitations of traditional ROC–AUC in imbalanced class distributions. The work extends binary Area under the minimum (AUM) concepts to multi-class settings using  one-vs-all strategies, and evaluates both macro and micro averaging approaches. The final section applies these ideas to language models pre-training.
 
-- Aug 25: Toby, Using and Contributing to the `data.table` package for efficient big data analysis [[https://docs.google.com/presentation/d/1mHTFR6Eg7OdKi6yJcAvMk5_B8hjtMmsczs8Ewxt2xT8][google slides]].
+- Aug 25: Toby, Using and Contributing to the =data.table= package for efficient big data analysis [[https://docs.google.com/presentation/d/1mHTFR6Eg7OdKi6yJcAvMk5_B8hjtMmsczs8Ewxt2xT8][google slides]].
 - Sep 1: Felix Metaprogrammation en C++ (tentative)
 
 - TODO animint2 R package: animated, interactive data visualization. I will give some demos of the animint2 software, and explain some new functionality and documentation that we are working on this summer (French translation, improved tooltips, non-overlapping labels, etc).
