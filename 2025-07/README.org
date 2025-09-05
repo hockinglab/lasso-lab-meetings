@@ -27,5 +27,13 @@ Suggested schedule below. Feel free to change!
 
 - Aug 25: Toby, Using and Contributing to the =data.table= package for efficient big data analysis [[https://docs.google.com/presentation/d/1mHTFR6Eg7OdKi6yJcAvMk5_B8hjtMmsczs8Ewxt2xT8][google slides]].
 - Sep 2: Felix Metaprogrammation en C++ avec les templates
+- Sep 8: Elise
+- Sep 15: Toby
+- Sep 22: Felix
+- Sep 29: Elise
+- Oct 6: Toby
+- Oct 13: Felix
+- Oct 20: Elise
+- Oct 27: Toby
 
 - TODO animint2 R package: animated, interactive data visualization. I will give some demos of the animint2 software, and explain some new functionality and documentation that we are working on this summer (French translation, improved tooltips, non-overlapping labels, etc).
