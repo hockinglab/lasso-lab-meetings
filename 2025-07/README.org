@@ -30,10 +30,10 @@ Suggested schedule below. Feel free to change!
 - Sep 8: Cancelled.
 - Sep 15: Elise: Analyse comparative de données de génomique 3D avec la méthode Hicream. Résumé : Les données Hi-C fournissent une information sur l’organisation tridimensionnelle du génome à partir de mesures d’interactions entre positions génomiques le long de la chromatine. Cette structure en trois dimensions a un rôle important dans de multiple processus biologiques tels que la régulation de l’expression des gènes. L’objectif de l’analyse différentielle est d’identifier, à partir de réplicats obtenus dans deux conditions biologiques différentes, des régions génomiques qui présentent des différences significatives de structure entre les deux conditions. Ici, je présenterai la méthode Hicream qui permet d'identifier des régions différentielles de manière data-driven et sans a priori sur le type de région à identifier. De plus, la méthode fournit des résultats interprétables en permettant de comparer les régions identifiées.
 - Sep 22: Toby: [[https://docs.google.com/presentation/d/1WpRZs9qz9wm1yik_MLj8tIJyWuL5-IBPYKLhOHZ9X4Y][Rajouter l'interactivité à vos ggplots avec animint2]]. Nous allons discuter quelques nouvelles fonctions dans mon package R : Tour, Videos, Ggplot arrangement, =geom_label_aligned()=, instant tooltip.
-- Sep 29: Felix
-- Oct 6: Elise
-- Oct 13: Toby
-- Oct 20: Felix
-- Oct 27: Elise
+- Sep 29: Bilal
+- Oct 6: Félix
+- Oct 13: Elise
+- Oct 20: Toby
+- Oct 27: 
 
 - TODO animint2 R package: animated, interactive data visualization. I will give some demos of the animint2 software, and explain some new functionality and documentation that we are working on this summer (French translation, improved tooltips, non-overlapping labels, etc).
