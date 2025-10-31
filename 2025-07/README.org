@@ -33,7 +33,9 @@ Suggested schedule below. Feel free to change!
 - Sep 29: Bilal: practice PHD defense, machine learning applied to climate change research.
 - Oct 6: Toby, binary segmentation, https://github.com/tdhock/2023-08-unsupervised-learning/blob/main/slides/05-binary-segmentation.pdf
 - Oct 13: Action de Grace
-- Oct 20: Félix
-- Oct 27: Elise
-
-- TODO animint2 R package: animated, interactive data visualization. I will give some demos of the animint2 software, and explain some new functionality and documentation that we are working on this summer (French translation, improved tooltips, non-overlapping labels, etc).
+- Oct 20: Félix, silvilaser debrief.
+- Oct 27: Elise, Hi-C comparative study.
+- Nov 3: Toby, 
+  - rectangular image segmentation 2d cum sum coding workshop.
+  - binary segmentation C++ code techniques.
+  - animint2 zoom tutorial: P-values volcano plot.
