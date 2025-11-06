@@ -35,7 +35,11 @@ Suggested schedule below. Feel free to change!
 - Oct 13: Action de Grace
 - Oct 20: Félix, silvilaser debrief.
 - Oct 27: Elise, Hi-C comparative study.
-- Nov 3: Toby, 
+- Nov 3: Toby, binary segmentation and 2d clustering time complexity analysis.
+- Nov 10: TODO
+- Nov 17: TODO
+- Nov 24: Wei Cao
+- other ideas:
   - rectangular image segmentation 2d cum sum coding workshop.
   - binary segmentation C++ code techniques.
   - animint2 zoom tutorial: P-values volcano plot.
