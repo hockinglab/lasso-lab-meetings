@@ -37,7 +37,7 @@ Suggested schedule below. Feel free to change!
 - Oct 27: Elise, Hi-C comparative study.
 - Nov 3: Toby, binary segmentation and 2d clustering time complexity analysis.
 - Nov 10: Toby, empirical comparisons between different software for binary segmentation.
-- Nov 17: TODO
+- Nov 17: Félix, demonstration [[https://github.com/Chabam/neolvox][lvoxR]].
 - Nov 24: Wei Cao
 - Dec 1: Alexandre Mercier-Aubin, TBD
 - other ideas:
