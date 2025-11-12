@@ -39,7 +39,11 @@ Suggested schedule below. Feel free to change!
 - Nov 10: Toby, empirical comparisons between different software for binary segmentation.
 - Nov 17: Félix, demonstration [[https://github.com/Chabam/neolvox][lvoxR]].
 - Nov 24: Wei Cao
-- Dec 1: Alexandre Mercier-Aubin, TBD
+- Dec 1: Alexandre Mercier-Aubin, 
+Titre: Vers une simulation physique en temps réel pour les jeux
+Résumé: Ce programme de recherche vise à améliorer la simulation physique en temps réel en conciliant rapidité et précision pour des applications interactives comme les jeux vidéo et les environnements virtuels. 
+Il s’appuie sur des techniques adaptatives et des projets axés sur la vitesse, le réalisme et la réduction de l’écart entre performance et fidélité, incluant des avancées en résolution parallèle, gestion des contacts et simulation de fluides.
+Les méthodes proposées reposent sur des algorithmes de coloration de graphes pour la parallélisation, des stratégies d’échantillonnage pour le traitement des contacts, ainsi que la condensation de sous-espaces pour la simulation de fluides de surface.
 - other ideas:
   - rectangular image segmentation 2d cum sum coding workshop.
   - binary segmentation C++ code techniques.
