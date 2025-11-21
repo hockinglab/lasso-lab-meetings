@@ -38,7 +38,10 @@ Suggested schedule below. Feel free to change!
 - Nov 3: Toby, binary segmentation and 2d clustering time complexity analysis.
 - Nov 10: Toby, empirical comparisons between different software for binary segmentation.
 - Nov 17: Elise, practice talk about Hicream.
-- Nov 24: Wei Cao
+- Nov 24: Wei Cao 
+Title: Functional Connectivity and Network Vulnerability in Epilepsy: A Wavelet Bispectrum Graph Analysis
+Abstract:
+This report investigates the difference of brain networks during epileptic seizures using a time-frequency approach that transcends traditional stationary assumptions. By employing Cross-Wavelet Transform (XWT) and Wavelet Bispectrum (WB), we visualize the difference between non-seizure and seizure states through functional connectivity heatmaps and graph topology metrics. 
 - Dec 1: Alexandre Mercier-Aubin, 
 Titre: Vers une simulation physique en temps réel pour les jeux
 Résumé: Ce programme de recherche vise à améliorer la simulation physique en temps réel en conciliant rapidité et précision pour des applications interactives comme les jeux vidéo et les environnements virtuels. 
