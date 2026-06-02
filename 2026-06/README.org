@@ -1,0 +1,34 @@
+LASSO lab group meetings, Summer 2026. 13H30 in D4-1010-23.
+
+- 2 June: Hakima Laribi,
+  - Title: Synthetic Data for Accessible Learning in Healthcare:
+    Predicting the Hospital One-year Mortality Risk with Admission Data
+  - Abstract: Accurate prediction of medium-term survival after
+    hospital admission is essential for identifying end-of-life
+    patients who may benefit from earlier goals-of-care (GOC)
+    discussions. Multiple studies have leveraged electronic health
+    record (EHR) data to predict the hospital one-year mortality risk
+    (HOMR), using information collected at different stages of the
+    care trajectory, including at discharge, during hospitalization,
+    or at the exact moment of admission. More recent work has also
+    explored the added value of incorporating longitudinal patient
+    history to improve prognostic performance. In this seminar, I will
+    present a synthetic dataset (https://zenodo.org/records/12954673)
+    generated from an original clinical dataset used to study the HOMR
+    prediction problem. We reproduce the same experimental setup on
+    both the original and synthetic datasets and compare the obtained
+    results. I will also discuss additional research questions that
+    can be explored using the synthetic dataset, as well as a
+    previously proposed hands-on challenge designed to facilitate
+    practical work with the data.
+- 9 June: TODO
+- 16 June: TODO
+- 23 June: TODO
+- 30 June: Toby on vacation
+- 7 July: Toby on vacation
+- 14 July: Toby on vacation
+- 21 July: TODO
+- 28 July: TODO
+- 4 Aug: TODO
+- 11 Aug: TODO
+- 18 Aug: TODO

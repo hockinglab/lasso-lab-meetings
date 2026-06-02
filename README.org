@@ -1,5 +1,6 @@
 [[https://lassolab.org][LASSO lab]] group meetings
 
+- [[file:2026-06/README.org][Summer 2026]]
 - [[file:2025-07/README.org][Summer 2025]]
 
 Advice on preparing talks/slides
