@@ -1,4 +1,6 @@
-LASSO lab group meetings, Summer 2026. 13H30 in D4-1010-23.
+LASSO lab group meetings, Summer 2026.
+
+Time/place is 13H30 in D4-1010-23, unless otherwise specified.
 
 - 2 June: Hakima Laribi,
   - Title: Synthetic Data for Accessible Learning in Healthcare:
@@ -21,8 +23,16 @@ LASSO lab group meetings, Summer 2026. 13H30 in D4-1010-23.
     can be explored using the synthetic dataset, as well as a
     previously proposed hands-on challenge designed to facilitate
     practical work with the data.
-- 9 June: TODO
-- 16 June: TODO
+- 9 June: Toby, 10AM-noon, [[https://docs.google.com/presentation/d/1mHTFR6Eg7OdKi6yJcAvMk5_B8hjtMmsczs8Ewxt2xT8/edit][Using and contributing to the data.table package for efficient big data analysis]]
+  - Abstract: data.table is one of the most efficient open-source
+    in-memory data manipulation packages available today. First
+    released to CRAN by Matt Dowle in 2006, it continues to grow in
+    popularity, and now over 1700 other CRAN packages depend on
+    data.table. This talk will start with data reading from CSV,
+    discuss basic and advanced data manipulation topics, and finally
+    will end with a discussion about how you can contribute to
+    data.table.
+- 16 June: Wei Cao, subject TBD
 - 23 June: TODO
 - 30 June: Toby on vacation
 - 7 July: Toby on vacation
