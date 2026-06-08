@@ -33,8 +33,8 @@ Time/place is 13H30 in D4-1010-23, unless otherwise specified.
     will end with a discussion about how you can contribute to
     data.table.
 - 16 June: Wei Cao: [To be refined & updated]
-- Title: Imbalanced MultiClassification: Hitstory, Frontend and Thoughts
-- Abstract: In this talk I will sort the history of the multiclassification research: 
+  - Title: Imbalanced MultiClassification: Hitstory, Frontend and Thoughts
+  - Abstract: In this talk I will sort the history of the multiclassification research: 
   the problems and the solution and new problems.
 - 23 June: TODO
 - 30 June: Toby on vacation
