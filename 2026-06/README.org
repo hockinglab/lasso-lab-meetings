@@ -36,7 +36,9 @@ Time/place is 13H30 in D4-1010-23, unless otherwise specified.
   - Title: Imbalanced MultiClassification: Hitstory, Frontend and Thoughts
   - Abstract: In this talk I will sort the history of the multiclassification research: 
     the problems and the solution and new problems.
-- 23 June: TODO
+- 23 June: Zina
+  - Title: One-year mortality prediction: robustness analysis by subgroup
+  - Abstract: This study evaluates the robustness of algorithms across age and gender subgroups while controlling the risk of "Data Leakage" associated with multiple patient hospital visits. Using the SOAK resampling method, we test whether it is preferable to create a comprehensive global model or specialized models for each profile.
 - 30 June: Toby on vacation
 - 7 July: Toby on vacation
 - 14 July: Toby on vacation
